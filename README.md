@@ -18,7 +18,7 @@ The Project Two report summarizes my testing approach and reflects on different 
 
 ### How can I ensure that my code, program, or software is functional and secure?
 
-I can verify that my software is functional by testing it against the requirements rather than assuming the code works because it runs. In CS320, I used JUnit tests to verify that the Contact and ContactService classes behaved as expected. Testing helped me find problems that were not always obvious from the code itself. I learned that tests should cover different situations, including valid data, invalid data, boundary conditions, and expected errors. Following requirements carefully and testing different conditions gives me more confidence that the software is working correctly. Security also starts with this process because software needs to properly validate and handle input rather than assuming that users will always provide valid information.
+I can verify that my software is functional by testing it against the requirements rather than assuming the code works because it runs. In CS320, I used JUnit tests to verify that the Contact and ContactService classes behaved as expected. Testing helped me find problems that were not always obvious from the code itself. I learned that tests should cover different situations, including valid data, invalid data, boundary conditions, and expected errors. Following requirements carefully and testing different conditions gives me more confidence that the software is working correctly. Security also requires additional testing beyond unit testing, including checking for vulnerabilities and how software responds to unexpected or improper input.
 
 ### How do I interpret user needs and incorporate them into a program?
 
